@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/yifuhe2020/?locale=en_US)
 
 ---
+
+<!-- 
+https://github.com/jmnote/z-icons
+-->
 <h3 align="left">
   Languages and Tools:
 </h3>
@@ -43,8 +47,8 @@ Here are some ideas to get you started:
  <a href="https://www.w3schools.com/cpp/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  <a href="https://www.tutorialspoint.com/r/index.htm" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="R" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
