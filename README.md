@@ -64,6 +64,12 @@ https://github.com/jmnote/z-icons
   <a href="https://git-scm.com/docs/gittutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://git-scm.com/docs/gittutorial" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/heyifuwhu" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+  </a> 
 </p>
 
 <h3 align="left">
