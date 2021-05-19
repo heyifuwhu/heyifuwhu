@@ -63,13 +63,16 @@ https://github.com/jmnote/z-icons
   </a> 
   <a href="https://git-scm.com/docs/gittutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/docs/gittutorial" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://github.com/heyifuwhu" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/docs/python/python-tutorial" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual_studio" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">
