@@ -55,6 +55,18 @@ https://github.com/jmnote/z-icons
   </a> 
 </p>
 <h3 align="left">
+  Tools:
+</h3>
+<p align="left">
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/docs/gittutorial" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">
   Database:
 </h3>
 <p align="left">
@@ -64,9 +76,7 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/mysql/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
   </a> 
-  <a href="https://git-scm.com/docs/gittutorial" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a> 
+
 <h3 align="left">
   Machine Learning & Deep Learning:
 </h3>
