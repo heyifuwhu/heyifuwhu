@@ -61,7 +61,7 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/postgresql/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> 
-  <a href="https://www.tutorialspoint.com/mysql/index.htm" target="https://www.tutorialspoint.com/mysql/index.htm"> 
+  <a href="_blank" target="https://www.tutorialspoint.com/mysql/index.htm"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
   </a> 
   <a href="https://git-scm.com/docs/gittutorial" target="_blank">
