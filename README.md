@@ -53,11 +53,9 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a> 
-</p>
 <h3 align="left">
   Tools:
 </h3>
-<p align="left">
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -73,7 +71,7 @@ https://github.com/jmnote/z-icons
   <a href="https://code.visualstudio.com/docs/python/python-tutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual_studio" width="40" height="40"/> 
   </a>
-</p>
+
 
 <h3 align="left">
   Database:
