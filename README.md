@@ -59,6 +59,13 @@ https://github.com/jmnote/z-icons
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+  <a href="https://www.tutorialspoint.com/unix/index.htm" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> 
+  </a> 
+
   <a href="https://git-scm.com/docs/gittutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a>  
@@ -72,11 +79,9 @@ https://github.com/jmnote/z-icons
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual_studio" width="40" height="40"/> 
   </a>
 
-
 <h3 align="left">
   Database:
 </h3>
-<p align="left">
   <a href="https://www.tutorialspoint.com/postgresql/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> 
