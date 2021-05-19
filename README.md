@@ -50,8 +50,8 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/r/index.htm" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="R" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.tutorialspoint.com/postgresql/index.htm" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
