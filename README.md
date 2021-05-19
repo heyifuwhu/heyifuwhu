@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 https://github.com/jmnote/z-icons
 -->
 <h3 align="left">
-  Languages and Tools:
+  Programming Languages:
 </h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> 
@@ -49,9 +49,20 @@ https://github.com/jmnote/z-icons
   </a> 
   <a href="https://www.tutorialspoint.com/r/index.htm" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="R" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a> 
+</p>
+  <h3 align="left">
+  Database:
+</h3>
+<p align="left">
   <a href="https://www.tutorialspoint.com/postgresql/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a> 
+  <a href="https://www.tutorialspoint.com/mysql/index.htm" target="https://www.tutorialspoint.com/mysql/index.htm"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
   </a> 
   <a href="https://git-scm.com/docs/gittutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
