@@ -89,7 +89,10 @@ https://github.com/jmnote/z-icons
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> 
   <a href="https://www.tutorialspoint.com/mysql/index.htm" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a> 
+    <a href="https://www.tutorialspoint.com/kdbplus/index.htm" target="_blank"> 
+    <img src="https://dbdb.io/media/logos/Kx_Logo_blue_large.png" alt="KDB+" width="40" height="40"/>
   </a> 
 
 <h3 align="left">
