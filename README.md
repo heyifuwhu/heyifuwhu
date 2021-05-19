@@ -50,6 +50,9 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/r/index.htm" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="R" width="40" height="40"/> 
   </a>  
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+  </a> 
   <a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a> 
