@@ -78,6 +78,9 @@ https://github.com/jmnote/z-icons
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> 
   </a>
+  <a href="https://flight-manual.atom.io" target="_blank">
+    <img src="https://github.com/mallowigi/a-file-icon-idea/blob/master/icon.png" alt="atom" width="40" height="40"/> 
+  </a>
   <a href="https://code.visualstudio.com/docs/python/python-tutorial" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual_studio" width="40" height="40"/> 
   </a>
