@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyifuwhu](https://github.com/heyifuwhu)
 
-- 💬 Ask me about ***Python, R, SQL, ML***
+- 💬 Ask me about ***Python, C++, R, SQL, ML***
 
 - 📫 How to reach me ***yh692@rutgers.edu***
 
