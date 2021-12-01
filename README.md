@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=heyifuwhu.readme)
 
-- 🔭 I’m currently working for [Enigma Securities](https://www.enigma-securities.io) as a Quantitative Developer.
+- 🔭 I’m currently working for [Injective Labs](https://injectiveprotocol.com/) as a High Frequency Trading Quantitative Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyifuwhu](https://github.com/heyifuwhu)
 
