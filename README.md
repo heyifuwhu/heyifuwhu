@@ -94,6 +94,9 @@ https://github.com/jmnote/z-icons
   <a href="https://www.tutorialspoint.com/mysql/index.htm" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a> 
+  <a href="https://redis.io/documentation" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a> 
     <a href="https://www.tutorialspoint.com/kdbplus/index.htm" target="_blank"> 
     <img src="https://dbdb.io/media/logos/Kx_Logo_blue_large.png" alt="KDB+" width="40" height="40"/>
   </a> 
